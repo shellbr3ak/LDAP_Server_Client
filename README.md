@@ -8,8 +8,6 @@ Run the LDAPserver.py
 python LDAPserver.py 9090
 ```
 
-![image](https://user-images.githubusercontent.com/33607657/139358550-8b7a6c78-5d59-4096-894c-26741d7f4304.png)
-
 
 
 #### Note that the LDAPInfo.java file connects to ldap://localhost:9090 by default
