@@ -2,12 +2,19 @@
 
 I wrote these 2 scripts a I was studying about LDAP Injection
 
+1. install ldaptor library
+
+```
+pip3 install ldaptor
+```
+
 Run the LDAPserver.py
 
 ```
-python LDAPserver.py 9090
+python3 LDAPserver.py 9090
 ```
 
+![image](https://user-images.githubusercontent.com/33607657/139359127-07a079ad-fb76-466c-8340-07fc457dedf6.png)
 
 
 #### Note that the LDAPInfo.java file connects to ldap://localhost:9090 by default
